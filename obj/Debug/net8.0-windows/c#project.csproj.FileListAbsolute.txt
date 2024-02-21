@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\c#project\c#project\bin\Debug\net8.0-windows\c#project.exe
+C:\Users\dell\source\repos\c#project\c#project\bin\Debug\net8.0-windows\c#project.deps.json
+C:\Users\dell\source\repos\c#project\c#project\bin\Debug\net8.0-windows\c#project.runtimeconfig.json
+C:\Users\dell\source\repos\c#project\c#project\bin\Debug\net8.0-windows\c#project.dll
+C:\Users\dell\source\repos\c#project\c#project\bin\Debug\net8.0-windows\c#project.pdb
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c_project.Form1.resources
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.AssemblyInfo.cs
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.dll
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\refint\c#project.dll
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.pdb
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.genruntimeconfig.cache
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\ref\c#project.dll
+C:\Users\dell\source\repos\c#project\c#project\obj\Debug\net8.0-windows\c#project.sourcelink.json
