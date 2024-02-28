@@ -6,8 +6,7 @@ pipeline {
  stages {  
   stage('Checkout') {  
    steps {
-       bat "git clone --single-branch --branch main https://github.com/Rajendra-46/test_project.git"
-   }  
+      git credentialsId: 'admin', url: 'https://github.com/Rajendra-46/test_project.git', branch: 'main'   }    }  
   }  
  stage('Build') {  
    steps {  
