@@ -6,7 +6,7 @@ pipeline {
  stages {  
   stage('Checkout') {  
    steps {
-      git credentialsId: 'admin', url: 'https://github.com/Rajendra-46/test_project.git', branch: 'main'   }    }  
+      git credentialsId: 'admin', url: 'https://github.com/Rajendra-46/test_project.git', branch: 'main'   }     
   }  
  stage('Build') {  
    steps {  
