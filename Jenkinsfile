@@ -8,7 +8,7 @@ pipeline {
   }  
  stage('Build') {  
    steps {  
-    bat 'dotnet build C:\\Users\\prasad\\Documents\\repos\\c#project\\c#project.sln --configuration Release' 
+    bat 'dotnet build C:\\Users\\prasad\\Documents\\repos\\c#project\\test_project\\c#project.sln --configuration Release' 
    }  
   }  
   stage('Test') {  
